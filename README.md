@@ -5,6 +5,7 @@
 # 示例结构
 
 - [hello world](/hello-world)  -  [相关文章](http://jabber.oppophp.com/2016/09/24/c-language-hello-world/)
+- [位运算](/operator)  -  [相关文章](http://jabber.oppophp.com/2016/10/04/c-language-operator/)
 - [`switch`结构](/switch)  -  [相关文章](http://jabber.oppophp.com/2016/10/05/c-language-condition-structure/)
 - [循环结构](/while)  -  [相关文章](http://jabber.oppophp.com/2016/10/06/c-language-cyclic-structure/)
 
